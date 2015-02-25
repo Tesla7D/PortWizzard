@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "portwizzard", "portwizzard\portwizzard.csproj", "{4A1DB244-4433-4C19-B4C3-8E4D8CCAE0AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A1DB244-4433-4C19-B4C3-8E4D8CCAE0AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A1DB244-4433-4C19-B4C3-8E4D8CCAE0AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A1DB244-4433-4C19-B4C3-8E4D8CCAE0AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A1DB244-4433-4C19-B4C3-8E4D8CCAE0AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
